@@ -1,7 +1,12 @@
+<div align="center">
+
+![alt text](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
 # Hey there, it's QuixQB 👋
 
-#Here_To_Enjoy
+<strong>Here_To_Enjoy</strong>
 
+</div>
 
 - 🍒 **Join my new Discord Server**: [QBHub](https://discord.gg/QBHub)
 - 👨‍💻 **Check out my small projects**: [My Repositories](https://github.com/QuixQB?tab=repositories)
