@@ -1,12 +1,9 @@
-### #LivingForTheMoments
+# Hey there, it's QuixQB 👋
 
-<!--
-**QuixQB/QuixQB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Here_To_Enjoy
 
-Here are some ideas to get you started:
 
-🍒 New Discord Server - https://discord.gg/QBHub
+- 🍒 **Join my new Discord Server**: [QBHub](https://discord.gg/QBHub)
+- 👨‍💻 **Check out my small projects**: [My Repositories](https://github.com/QuixQB?tab=repositories)
 
-👨‍💻 Small projects available at - https://github.com/QuixQB?tab=repositories
-
--->
+Feel free to connect with me and explore my projects. Let's create something amazing together!
